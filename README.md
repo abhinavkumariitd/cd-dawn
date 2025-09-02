@@ -23,6 +23,7 @@ If the network is unweighted, then the code can be called as follows:
 The output is written in the file called cd-dawn-coms.txt, which resides in the same directory where the code lies.
 
 If you use this code for research purpose, please cite the following article:
+
 @article{kumar2025overlapping,
   title={Overlapping community detection with a new modularity measure in directed weighted networks},
   author={Kumar, Abhinav and Kumari, Anjali and Kumar, Pawan and Dohare, Ravins},
